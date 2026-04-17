@@ -8,3 +8,7 @@ We developed scDeepCMV, a deep learning framework trained on ~980,000 immune cel
 ![CMV_Immune](figures/scDeepCMV.png)
 ## scDeepiClock
 ![CMV_Immune](figures/sciclock.png)
+
+## License
+
+This project is licensed under the Apache License 2.0. See the LICENSE file for details.
